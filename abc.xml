@@ -1,0 +1,15 @@
+<Button
+        android:id="@+id/greenBtn"
+        android:layout_width="match_parent"
+        android:layout_height="110dp"
+        android:text="Green Button"
+        style="@style/GreenButton"
+        android:backgroundTint="@color/white"
+        android:textStyle="bold" 
+/>
+
+<!--  Green Button Style  -->
+<style name="GreenButton" parent="Button">
+        <item name="android:textColor">#00FF00</item>
+        <item name="android:backgroundTint">@color/green</item>
+</style>
