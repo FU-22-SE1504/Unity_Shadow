@@ -21,6 +21,7 @@ public class EnemyController : MonoBehaviour
     [SerializeField] private int attackDamage = 2;
     [SerializeField] private float colliderDistance = 1f;
     [SerializeField] private float range = 1.5f;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -61,6 +62,7 @@ public class EnemyController : MonoBehaviour
             Destroy(gameObject, animator.GetCurrentAnimatorStateInfo(0).length + delayDeath);
         }
     }
+
     //* Check distance of enemy with player
     private bool playerInSight()
     {
@@ -90,5 +92,6 @@ public class EnemyController : MonoBehaviour
             playerHealth.PlayerTakeDamage(attackDamage);
         }
     }
+
 }
 

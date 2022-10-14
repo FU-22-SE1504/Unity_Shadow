@@ -9,14 +9,18 @@ public class EnemyPatrol : MonoBehaviour
     [SerializeField] float range;
     [SerializeField] float moveSpeed;
 
+    private bool canMove = true;
+
     //* Component
     Rigidbody2D rigidbody2D;
     Animator animator;
+    EnemyController enemyController;
 
     private void Start()
     {
         rigidbody2D = GetComponent<Rigidbody2D>();
         animator = GetComponent<Animator>();
+        enemyController = GetComponent<EnemyController>();
     }
 
     private void Update()
@@ -26,7 +30,8 @@ public class EnemyPatrol : MonoBehaviour
         {
             // Distance to player
             float distanceToPlayer = Vector2.Distance(transform.position, player.position);
-            if (distanceToPlayer <= range)
+            //Check distance and enemy can not move while attack and death
+            if (distanceToPlayer <= range && canMove)
             {
                 // Follow to attack player
                 ChasePLayer();
@@ -42,7 +47,6 @@ public class EnemyPatrol : MonoBehaviour
             print("Player is Destroy");
             StopChasePlayer();
         }
-
     }
 
     public void ChasePLayer()
@@ -67,7 +71,18 @@ public class EnemyPatrol : MonoBehaviour
 
     public void StopChasePlayer()
     {
+        // Stop enemy when distance between player and enemy so hight
         rigidbody2D.velocity = new Vector2(0, 0);
         animator.SetBool("walk", false);
+    }
+
+    public void enemyCanMove()
+    {
+        canMove = true;
+    }
+
+    public void enemyStopMove()
+    {
+        canMove = false;
     }
 }
