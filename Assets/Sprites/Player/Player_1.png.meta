@@ -67,7 +67,7 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 2048
+    maxTextureSize: 16384
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 2
@@ -4262,9 +4262,9 @@ TextureImporter:
       Player_1_153: -1426188663
       Player_1_169: 675068843
       Player_1_145: -1995035617
-      Player_1_72: 1734022871
       Player_1_9: 415788986
       Player_1_25: 277284284
+      Player_1_72: 1734022871
       Player_1_73: -1137497419
       Player_1_94: -522803384
       Player_1_10: 958514767

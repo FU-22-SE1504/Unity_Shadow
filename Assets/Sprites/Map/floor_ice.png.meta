@@ -42,7 +42,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -67,10 +67,10 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 2048
+    maxTextureSize: 16384
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 2
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -115,7 +115,427 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: floor_ice_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 638
+        width: 644
+        height: 898
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c4e7525d2849d1488ed81cf0f70f030
+      internalID: 1055629696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_ice_1
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 767
+        width: 899
+        height: 769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2293618a9ff97594fb16a3569cfe753d
+      internalID: -1246583887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_ice_2
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 512
+        width: 246
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9ac3478f02dc2f43a50f165aef2d0a8
+      internalID: -1462339735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_ice_3
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 659
+        width: 391
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2db39eb8d943f54d947eb29d1e743b2
+      internalID: 535657987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_ice_4
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 534
+        width: 385
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ca5371ff0fc66a46a42da35f4a4ad7e
+      internalID: 1323771894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_ice_5
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 5
+        width: 274
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d030ee980ea84474f8de82ebd5a69bc2
+      internalID: 1165407407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_ice_6
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 250
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 110ec63f669927e4fb49b5c061fa8344
+      internalID: 937953494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_ice_7
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 147
+        width: 233
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98a2a095e6bf99943abc545d405b4f63
+      internalID: -1962823608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_ice_8
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 260
+        width: 769
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d17f5048e21011d46939b1483fae1ac1
+      internalID: -471618902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_ice_9
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 162
+        width: 384
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a594de3d211d354d975bdf67700f5bc
+      internalID: 153997700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_ice_10
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 155
+        width: 6
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1525bb1e4b543854a8167ddaa47ee5da
+      internalID: -378417319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_ice_11
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 155
+        width: 6
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2f5caa2cd6045449abb9004cfe825a7
+      internalID: -119136045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_ice_12
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 16
+        width: 1180
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c38a01b552d5e5c4982154df5bc3fca1
+      internalID: 11489497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_ice_13
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 24
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b87192d3ac784ab499e5abd99ac8f56f
+      internalID: -235980527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_ice_14
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 24
+        width: 19
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0021acc9ad664a4a966a1e99c7e0b7b
+      internalID: -2067649092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_ice_15
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 24
+        width: 24
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a8acc0738596e14e8939df5815ad0ab
+      internalID: 386843639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_ice_16
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 20
+        width: 23
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84aa327c42e31db46a8b2642defdb5c3
+      internalID: -141849697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_ice_17
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 16
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34e2674903149404f8cd641b5440bffd
+      internalID: 1289217745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_ice_18
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 16
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef0384ad90cd5f649ac0beb67b3df7f8
+      internalID: 312422709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_ice_19
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 402
+        width: 265
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75dd27985c71f5145a2f8986002b2d6e
+      internalID: 1172317143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -126,7 +546,27 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      floor_ice_4: 1323771894
+      floor_ice_7: -1962823608
+      floor_ice_2: -1462339735
+      floor_ice_10: -378417319
+      floor_ice_8: -471618902
+      floor_ice_15: 386843639
+      floor_ice_13: -235980527
+      floor_ice_16: -141849697
+      floor_ice_19: 1172317143
+      floor_ice_0: 1055629696
+      floor_ice_3: 535657987
+      floor_ice_12: 11489497
+      floor_ice_18: 312422709
+      floor_ice_6: 937953494
+      floor_ice_17: 1289217745
+      floor_ice_11: -119136045
+      floor_ice_5: 1165407407
+      floor_ice_9: 153997700
+      floor_ice_1: -1246583887
+      floor_ice_14: -2067649092
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

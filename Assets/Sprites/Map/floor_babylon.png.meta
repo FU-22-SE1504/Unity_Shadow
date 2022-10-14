@@ -42,7 +42,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -67,10 +67,10 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 2048
+    maxTextureSize: 16384
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 2
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -115,7 +115,721 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: floor_babylon_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 640
+        height: 896
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3374732ffc4082541afa703fb4e7115d
+      internalID: 187082574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_babylon_1
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 1488
+        width: 21
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4af191c4b96de448b54bc6150cfd3da
+      internalID: 1961034379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_babylon_2
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 1381
+        width: 164
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b23202966a6d9a74694998da855541dc
+      internalID: 111782111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_babylon_3
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 1492
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b14fac616a2eef843945a841e99c07a5
+      internalID: 2055380000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_babylon_4
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 1446
+        width: 160
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0964a96ad2e67bf46b92cae85be1d5f9
+      internalID: 1886349206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_babylon_5
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 1408
+        width: 122
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 342cdfc3b0db30440b47326f7c9d5bdc
+      internalID: 1894516507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_babylon_6
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 1485
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecefa0b4014a48042915a38e1309f890
+      internalID: -1932507715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_babylon_7
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 1453
+        width: 8
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b756ec1f5a1a0845bc188127e993101
+      internalID: 791569951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_babylon_8
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 1299
+        width: 76
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21f0310351517c945b37397a3c5b7a80
+      internalID: 1003224525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_babylon_9
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 1011
+        width: 286
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d32e11c76abae4849b1f64954e69c563
+      internalID: -2016488858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_babylon_10
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1280
+        width: 84
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b62b6c0e5ea86d47b6a5ca6f2dd28a8
+      internalID: 154960650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_babylon_11
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1021
+        width: 128
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 951935dbcf9b8fd4f8f4c75fa2b425b8
+      internalID: 1149315464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_babylon_12
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 1018
+        width: 121
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcb6d99648afdac4690b00a4a44244dd
+      internalID: 1648435363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_babylon_13
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 768
+        width: 108
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6df4ca86464389a41883b902937f36c9
+      internalID: 786148846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_babylon_14
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 768
+        width: 290
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe69b4dc20306634a9140296426e2098
+      internalID: 401323119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_babylon_15
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 896
+        width: 104
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1fe33b3a0f4195428d01549498e28ec
+      internalID: 1758501957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_babylon_16
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 896
+        width: 106
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcc8ebd593bf4fe4fb560b9c236b31c3
+      internalID: -254196609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_babylon_17
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 768
+        width: 71
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b04eb16a5173b448b70ea21529f3e39
+      internalID: 2057669273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_babylon_18
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 746
+        width: 80
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d64bd2e06308fd04fb1da5e49651ebe9
+      internalID: 1399317749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_babylon_19
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 652
+        width: 384
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71912324fd013a04b82930a80f457122
+      internalID: -1618516525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_babylon_20
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 496
+        width: 292
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84352813695958a43b9c93189306d3d0
+      internalID: -1238995672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_babylon_21
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 688
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37b8ba499b3454e43899f50af98b729e
+      internalID: 646867342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_babylon_22
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 671
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12aca4233600b9143b5359ca0cdf079f
+      internalID: 1394961089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_babylon_23
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 363
+        width: 252
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a449f554f8603f24fa6c1d4f79dae31b
+      internalID: 725552537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_babylon_24
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 536
+        width: 412
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fed3d66425b0b64a945fad7fdf94502
+      internalID: 1999457741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_babylon_25
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 526
+        width: 56
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba7788c1b529833448389f135957114d
+      internalID: 1461279605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_babylon_26
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 419
+        width: 416
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eb3882674ee352478da2d069ff36be6
+      internalID: 494669453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_babylon_27
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 501
+        width: 44
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddf037d1957c9c9448d452d0cc8063d3
+      internalID: 1212863832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_babylon_28
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 263
+        width: 239
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e7c8570646652048b09f47ee0bc30e0
+      internalID: 738186623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_babylon_29
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 0
+        width: 416
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20bf0ae79f68f764482c08664a4ed447
+      internalID: -518156925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_babylon_30
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 384
+        width: 18
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e50e9d5b84bd774e83d47b823568c3b
+      internalID: -1844396251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_babylon_31
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 12
+        width: 252
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 003d147847904934e80919d2d673a816
+      internalID: 2032463375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_babylon_32
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 25
+        width: 239
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 849ed396cf2079943967772068beeec2
+      internalID: 579997933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_babylon_33
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 254
+        width: 420
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 961dd445a80aa2e41bbbcc545c3dda3a
+      internalID: -1746631489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -126,7 +840,41 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      floor_babylon_12: 1648435363
+      floor_babylon_14: 401323119
+      floor_babylon_9: -2016488858
+      floor_babylon_10: 154960650
+      floor_babylon_17: 2057669273
+      floor_babylon_3: 2055380000
+      floor_babylon_22: 1394961089
+      floor_babylon_31: 2032463375
+      floor_babylon_11: 1149315464
+      floor_babylon_26: 494669453
+      floor_babylon_23: 725552537
+      floor_babylon_18: 1399317749
+      floor_babylon_27: 1212863832
+      floor_babylon_6: -1932507715
+      floor_babylon_7: 791569951
+      floor_babylon_21: 646867342
+      floor_babylon_28: 738186623
+      floor_babylon_30: -1844396251
+      floor_babylon_24: 1999457741
+      floor_babylon_8: 1003224525
+      floor_babylon_19: -1618516525
+      floor_babylon_5: 1894516507
+      floor_babylon_16: -254196609
+      floor_babylon_20: -1238995672
+      floor_babylon_29: -518156925
+      floor_babylon_33: -1746631489
+      floor_babylon_2: 111782111
+      floor_babylon_4: 1886349206
+      floor_babylon_1: 1961034379
+      floor_babylon_13: 786148846
+      floor_babylon_25: 1461279605
+      floor_babylon_0: 187082574
+      floor_babylon_32: 579997933
+      floor_babylon_15: 1758501957
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
