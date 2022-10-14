@@ -411,6 +411,7 @@ GameObject:
   - component: {fileID: 4155452841312522663}
   - component: {fileID: -3239644869577378415}
   - component: {fileID: 1611065943}
+  - component: {fileID: 287336014}
   m_Layer: 6
   m_Name: Enemy_Solider
   m_TagString: Enemy
@@ -532,7 +533,7 @@ Rigidbody2D:
   m_Interpolate: 0
   m_SleepingMode: 1
   m_CollisionDetection: 0
-  m_Constraints: 0
+  m_Constraints: 4
 --- !u!95 &-3239644869577378415
 Animator:
   serializedVersion: 4
@@ -577,3 +578,21 @@ MonoBehaviour:
   attackDamage: 2
   colliderDistance: 1
   range: 1.5
+--- !u!114 &287336014
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4155452841312522661}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7a46d9db555c4d74d8972198fb7e3835, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  walkSpeed: 0
+  mustPatrol: 0
+  groundLayer:
+    serializedVersion: 2
+    m_Bits: 128
+  groundCheckPos: {fileID: 4155452841312522650}

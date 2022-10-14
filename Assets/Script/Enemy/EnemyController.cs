@@ -7,6 +7,7 @@ public class EnemyController : MonoBehaviour
     //* Component
     public EnemyHealth enemyHealth;
     private Animator animator;
+    private Rigidbody2D rigidbody2D;
     [SerializeField] private BoxCollider2D boxCollider2D;
     [SerializeField] private LayerMask playerLayer;
     private PlayerHealth playerHealth;
@@ -26,6 +27,8 @@ public class EnemyController : MonoBehaviour
         animator = GetComponent<Animator>();
         currentHealth = maxHealth;
         enemyHealth.SetHealth(currentHealth, maxHealth);
+        rigidbody2D = GetComponent<Rigidbody2D>();
+
     }
 
     private void Update()
@@ -39,6 +42,7 @@ public class EnemyController : MonoBehaviour
                 //* Attack
                 cooldownTimer = 0;
                 animator.SetTrigger("attack");
+                rigidbody2D.velocity = new Vector2(0, 0);
             }
         }
     }
