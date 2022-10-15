@@ -44,7 +44,7 @@ public class EnemyPatrol : MonoBehaviour
         }
         catch (Exception e)
         {
-            print("Player is Destroy");
+            print("Player is Destroy" + e);
             StopChasePlayer();
         }
     }

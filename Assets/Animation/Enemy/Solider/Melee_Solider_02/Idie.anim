@@ -6,7 +6,7 @@ AnimationClip:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Melee_Soldier_Hurt
+  m_Name: Idie
   serializedVersion: 6
   m_Legacy: 0
   m_Compressed: 0
@@ -20,9 +20,19 @@ AnimationClip:
   m_PPtrCurves:
   - curve:
     - time: 0
-      value: {fileID: 2006480663, guid: 2871d301b545155449bc1a2c4f55fa23, type: 3}
+      value: {fileID: 1975814474, guid: 16c3dd7c0c5818b4aa83a3cb8901e626, type: 3}
     - time: 0.16666667
-      value: {fileID: 2006480663, guid: 2871d301b545155449bc1a2c4f55fa23, type: 3}
+      value: {fileID: 251198350, guid: 16c3dd7c0c5818b4aa83a3cb8901e626, type: 3}
+    - time: 0.33333334
+      value: {fileID: 633155520, guid: 16c3dd7c0c5818b4aa83a3cb8901e626, type: 3}
+    - time: 0.5
+      value: {fileID: -1133899091, guid: 16c3dd7c0c5818b4aa83a3cb8901e626, type: 3}
+    - time: 0.6666667
+      value: {fileID: 1741090430, guid: 16c3dd7c0c5818b4aa83a3cb8901e626, type: 3}
+    - time: 0.8333333
+      value: {fileID: -171206423, guid: 16c3dd7c0c5818b4aa83a3cb8901e626, type: 3}
+    - time: 1
+      value: {fileID: -373398741, guid: 16c3dd7c0c5818b4aa83a3cb8901e626, type: 3}
     attribute: m_Sprite
     path: 
     classID: 212
@@ -42,14 +52,19 @@ AnimationClip:
       customType: 23
       isPPtrCurve: 1
     pptrCurveMapping:
-    - {fileID: 2006480663, guid: 2871d301b545155449bc1a2c4f55fa23, type: 3}
-    - {fileID: 2006480663, guid: 2871d301b545155449bc1a2c4f55fa23, type: 3}
+    - {fileID: 1975814474, guid: 16c3dd7c0c5818b4aa83a3cb8901e626, type: 3}
+    - {fileID: 251198350, guid: 16c3dd7c0c5818b4aa83a3cb8901e626, type: 3}
+    - {fileID: 633155520, guid: 16c3dd7c0c5818b4aa83a3cb8901e626, type: 3}
+    - {fileID: -1133899091, guid: 16c3dd7c0c5818b4aa83a3cb8901e626, type: 3}
+    - {fileID: 1741090430, guid: 16c3dd7c0c5818b4aa83a3cb8901e626, type: 3}
+    - {fileID: -171206423, guid: 16c3dd7c0c5818b4aa83a3cb8901e626, type: 3}
+    - {fileID: -373398741, guid: 16c3dd7c0c5818b4aa83a3cb8901e626, type: 3}
   m_AnimationClipSettings:
     serializedVersion: 2
     m_AdditiveReferencePoseClip: {fileID: 0}
     m_AdditiveReferencePoseTime: 0
     m_StartTime: 0
-    m_StopTime: 0.18333334
+    m_StopTime: 1.0166667
     m_OrientationOffsetY: 0
     m_Level: 0
     m_CycleOffset: 0
@@ -70,6 +85,13 @@ AnimationClip:
   m_HasMotionFloatCurves: 0
   m_Events:
   - time: 0
+    functionName: enemyStopMove
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 0.8333333
     functionName: enemyCanMove
     data: 
     objectReferenceParameter: {fileID: 0}

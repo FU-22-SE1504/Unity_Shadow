@@ -306,7 +306,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7a46d9db555c4d74d8972198fb7e3835, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  player: {fileID: 5946115868770843273, guid: 1f246df936bf61c4fa4d6476af00685c, type: 3}
+  player: {fileID: 0}
   range: 15
   moveSpeed: 5
 --- !u!1 &2596212381146850718
