@@ -1,0 +1,1465 @@
+fileFormatVersion: 2
+guid: 352fe0f00aa64344081f1184497b9d91
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: JShFr9E_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1375
+        width: 362
+        height: 673
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5070e40e31b3624ea13d2fabb8bef62
+      internalID: 725191068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JShFr9E_1
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 1002
+        width: 144
+        height: 1046
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f191a1b7668a71641a2080ba4e804e5a
+      internalID: -930466188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JShFr9E_2
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 808
+        width: 55
+        height: 1240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb127ec0b3c7c5e458eb9db92fd7a54e
+      internalID: 1542500356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JShFr9E_3
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 872
+        width: 70
+        height: 1176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac0e15acbf106b9458eb8542530804b8
+      internalID: -1834197803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JShFr9E_4
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 856
+        width: 113
+        height: 1192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7400d1aa98ce69f45bd4343ccd6e340a
+      internalID: -530534385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JShFr9E_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1219
+        width: 133
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29121b04162669d43a4a5b01c8328ceb
+      internalID: -1664314576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JShFr9E_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1308
+        width: 26
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63a97d351b31ecc43b7ecf290ba12c60
+      internalID: 742384768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JShFr9E_7
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1112
+        width: 146
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86bf7036257a86e4c8f4d9b8b6cd5026
+      internalID: 140978221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JShFr9E_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1023
+        width: 169
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f17c585718a30b4ca34bb346d71ef51
+      internalID: -1654089268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JShFr9E_9
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 1093
+        width: 116
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 143c62610616aa94c98582ac06112215
+      internalID: 1966528817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JShFr9E_10
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 1136
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8050b5539fc911e4bacc4e07f974dd35
+      internalID: 1677816929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JShFr9E_11
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 944
+        width: 97
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fcf5c594a55dbb4b8e2b9b5795c63b7
+      internalID: -1281754926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JShFr9E_12
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1056
+        width: 82
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c2f52f719a6085409270f644f6b8147
+      internalID: -1385286947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JShFr9E_13
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1026
+        width: 120
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6722ad25d4103747ac377926e000116
+      internalID: -743854868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JShFr9E_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 698
+        width: 290
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e495ce4f5222f504fbc7f359621b444e
+      internalID: 1981231566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JShFr9E_15
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 848
+        width: 82
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a28b5f1cecf0d1241b1b52615a176f37
+      internalID: 1231198412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JShFr9E_16
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 958
+        width: 140
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52673ef891b5d824bbff2f7489d582de
+      internalID: 1518988383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JShFr9E_17
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 910
+        width: 198
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d8275c769612494fbce9ecc1448f3b1
+      internalID: -1531212822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JShFr9E_18
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 848
+        width: 183
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c35ce39896c3114fb5b9f944fbdda91
+      internalID: -2048316248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JShFr9E_19
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 773
+        width: 60
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f66a1c1fbde533243bd4f9ea3a551565
+      internalID: 1541763596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JShFr9E_20
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 707
+        width: 53
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae7d7b16da887594aa2c2eb971c2ef9a
+      internalID: -214085502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JShFr9E_21
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 741
+        width: 154
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc4dbd114c1421f4289294f0bb95a938
+      internalID: -206411138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JShFr9E_22
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 875
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 565818707a75bf34abcdc78b02cb7ec9
+      internalID: -1372104380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JShFr9E_23
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 744
+        width: 44
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31bae362c37810c4ebf37928b4fa79cb
+      internalID: -1348964618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JShFr9E_24
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 851
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1234625f020f36c4fbb8cc3ba55b4bc2
+      internalID: 723088580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JShFr9E_25
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 743
+        width: 63
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e539fa3f18961d4b97f92af109d8f21
+      internalID: -584569851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JShFr9E_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 696
+        width: 161
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 905a2a99091bcbb4cbb31a580d977c98
+      internalID: -1904309975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JShFr9E_27
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 698
+        width: 247
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef609017f374a8d4fa84423ce50823fe
+      internalID: 267094396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JShFr9E_28
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 784
+        width: 325
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e498f76e8cbe1df40a357abefa133907
+      internalID: 966400353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JShFr9E_29
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 740
+        width: 67
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67f9523cde171834b9ca55cc3117395b
+      internalID: -1622014993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JShFr9E_30
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 659
+        width: 47
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a31649e0feac339439d59253961bdd4a
+      internalID: 448791563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JShFr9E_31
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 704
+        width: 31
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d826faff77f0e845be8098ba2110175
+      internalID: -499760143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JShFr9E_32
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 719
+        width: 42
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7da9fab3ff8721e469da37178f674203
+      internalID: -1514261998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JShFr9E_33
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 716
+        width: 49
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bb24cbb293988e439da77d9321f9ea4
+      internalID: -727862080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JShFr9E_34
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 707
+        width: 98
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1a62127d7e61334da1b48abcf82fb1a
+      internalID: -352592746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JShFr9E_35
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 711
+        width: 47
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53f972732b449654dac04f274cd5485f
+      internalID: -112793658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JShFr9E_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 490
+        width: 165
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd956ebe4a4db7d44bf3328ef0068b38
+      internalID: 251167424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JShFr9E_37
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 0
+        width: 460
+        height: 634
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab366e953c7d18f47891c4cf7337aed1
+      internalID: -153988731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JShFr9E_38
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 618
+        width: 323
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cf0c4b5dc73e1e4e854e395fffb9a66
+      internalID: -181437073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JShFr9E_39
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 490
+        width: 98
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba927f4adb9aa474f8646f0cade5c57e
+      internalID: -983298821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JShFr9E_40
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 490
+        width: 102
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22545f27c23eef04f88accaa3129f99c
+      internalID: 452141646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JShFr9E_41
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 407
+        width: 68
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a45a510d5a1e774794dff3219982e8e
+      internalID: 952467885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JShFr9E_42
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 486
+        width: 222
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6fe33e159b71664ca370d40d7a7f966
+      internalID: 529833021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JShFr9E_43
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 451
+        width: 307
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c3195c1fcba1004280653f8ae3d7e8b
+      internalID: 1732628403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JShFr9E_44
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 582
+        width: 108
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acf7afecc6000bc469013b6325cdd0e3
+      internalID: -1967784814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JShFr9E_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 382
+        width: 365
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1198ea283549ec94abe9635881b78709
+      internalID: -1429532796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JShFr9E_46
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 260
+        width: 181
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8f896f4f6ed05a40805e4d9643cf38e
+      internalID: 1934442058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JShFr9E_47
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 0
+        width: 145
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7e023af44eec1444991643467249219
+      internalID: -1604508891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JShFr9E_48
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 307
+        width: 71
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08de5fc79944cf04984dc9790e15374a
+      internalID: 839398204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JShFr9E_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 247
+        width: 160
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10618d3ea06cc6d4d9f65aa04c7c3b48
+      internalID: 1619550154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JShFr9E_50
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 302
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fff6014e022f414bbb2383c9f15cca4
+      internalID: 4721910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JShFr9E_51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 89
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 977ad7ef5f2c95246902de1ed220924d
+      internalID: 380964323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JShFr9E_52
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 84
+        width: 178
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1a12f0323d60c94896b079c01f8df6a
+      internalID: 1868091036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JShFr9E_53
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 171
+        width: 160
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80aa1e42fb06d104f8edf181df1b28ad
+      internalID: -743249047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JShFr9E_54
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 150
+        width: 64
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 043a7e9329950db4ba86f214f994c343
+      internalID: 696396818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JShFr9E_55
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 118
+        width: 76
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 649ae0fcde879384686a011e1b512a01
+      internalID: -520213444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JShFr9E_56
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 0
+        width: 145
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09382a6ff64663345abacc2f2126255c
+      internalID: 1312436236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JShFr9E_57
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 4
+        width: 37
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fca0e193044bcfa4fae8830dce9c76d5
+      internalID: -1172475324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JShFr9E_58
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 92
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ec5981d8352fe643818348c2f15ce5e
+      internalID: 902822950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JShFr9E_59
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 0
+        width: 290
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd89d40e34df4e94ea224471baa19b5e
+      internalID: -1715086846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JShFr9E_60
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 0
+        width: 16
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae3765d129dd34b49a760c6056f1da5f
+      internalID: -1077111904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      JShFr9E_2: 1542500356
+      JShFr9E_47: -1604508891
+      JShFr9E_10: 1677816929
+      JShFr9E_60: -1077111904
+      JShFr9E_0: 725191068
+      JShFr9E_59: -1715086846
+      JShFr9E_43: 1732628403
+      JShFr9E_48: 839398204
+      JShFr9E_41: 952467885
+      JShFr9E_18: -2048316248
+      JShFr9E_36: 251167424
+      JShFr9E_38: -181437073
+      JShFr9E_3: -1834197803
+      JShFr9E_37: -153988731
+      JShFr9E_16: 1518988383
+      JShFr9E_42: 529833021
+      JShFr9E_25: -584569851
+      JShFr9E_49: 1619550154
+      JShFr9E_46: 1934442058
+      JShFr9E_32: -1514261998
+      JShFr9E_34: -352592746
+      JShFr9E_29: -1622014993
+      JShFr9E_55: -520213444
+      JShFr9E_40: 452141646
+      JShFr9E_57: -1172475324
+      JShFr9E_4: -530534385
+      JShFr9E_30: 448791563
+      JShFr9E_23: -1348964618
+      JShFr9E_6: 742384768
+      JShFr9E_28: 966400353
+      JShFr9E_26: -1904309975
+      JShFr9E_45: -1429532796
+      JShFr9E_51: 380964323
+      JShFr9E_5: -1664314576
+      JShFr9E_13: -743854868
+      JShFr9E_44: -1967784814
+      JShFr9E_17: -1531212822
+      JShFr9E_19: 1541763596
+      JShFr9E_22: -1372104380
+      JShFr9E_31: -499760143
+      JShFr9E_9: 1966528817
+      JShFr9E_20: -214085502
+      JShFr9E_50: 4721910
+      JShFr9E_33: -727862080
+      JShFr9E_56: 1312436236
+      JShFr9E_39: -983298821
+      JShFr9E_8: -1654089268
+      JShFr9E_24: 723088580
+      JShFr9E_11: -1281754926
+      JShFr9E_21: -206411138
+      JShFr9E_14: 1981231566
+      JShFr9E_52: 1868091036
+      JShFr9E_12: -1385286947
+      JShFr9E_54: 696396818
+      JShFr9E_15: 1231198412
+      JShFr9E_58: 902822950
+      JShFr9E_27: 267094396
+      JShFr9E_7: 140978221
+      JShFr9E_1: -930466188
+      JShFr9E_35: -112793658
+      JShFr9E_53: -743249047
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

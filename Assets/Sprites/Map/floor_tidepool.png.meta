@@ -42,7 +42,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -115,7 +115,952 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: floor_tidepool_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 512
+        height: 896
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66c020bf04b3f914f81ae2ca944d8dae
+      internalID: 175771788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_tidepool_1
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 639
+        width: 128
+        height: 894
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13f2b284e95960245be332eecaddd36d
+      internalID: 1250780710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_tidepool_2
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 1208
+        width: 122
+        height: 328
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee52d6fd4b134484c85387282f8d127c
+      internalID: 887864780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_tidepool_3
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 1430
+        width: 87
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4129c9926611e2d429ca81d3248c06af
+      internalID: -1329307638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_tidepool_4
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 1408
+        width: 144
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f2aca9c8b6c9c547914b4911b3eba24
+      internalID: 874305429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_tidepool_5
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 1409
+        width: 122
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 870c712298ac7134da998bcf3bab02a6
+      internalID: 2030589955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_tidepool_6
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 1485
+        width: 45
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e581bced75e7084a82d33cf229ca88c
+      internalID: 397302463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_tidepool_7
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 1446
+        width: 123
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a36ef91c55c7224a9ba8034a5b87727
+      internalID: -947577980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_tidepool_8
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 1025
+        width: 262
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e8fa8356ce7a2b41aa4297ab146b0d5
+      internalID: 1205976707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_tidepool_9
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 1195
+        width: 107
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 548203261eb9113458ed69816b088ec5
+      internalID: 568540311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_tidepool_10
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 1153
+        width: 262
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f70413aefc12d74a9879543dbdb5eed
+      internalID: -369413355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_tidepool_11
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 1280
+        width: 80
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d6b2201f0f16e149bfd0e0a899039c3
+      internalID: -1881137006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_tidepool_12
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 1031
+        width: 119
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bee57d23ac4464d4988981eee2ef25fd
+      internalID: 1964686438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_tidepool_13
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 1027
+        width: 111
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a25e191bb9e52c340a7803acfb8db704
+      internalID: -363893570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_tidepool_14
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 1028
+        width: 119
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95d85bc2dbe0b4d4d81b21011ae185b0
+      internalID: -1198769168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_tidepool_15
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 1030
+        width: 131
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 186eca981546b58468399865527e106d
+      internalID: -603564281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_tidepool_16
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 1023
+        width: 123
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04f100c51358d6647be9de9a58674ed0
+      internalID: -1466075001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_tidepool_17
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 897
+        width: 92
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71342a5bafff99e4a852cf47efecb353
+      internalID: 1886698581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_tidepool_18
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 768
+        width: 92
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 244821965ab415c4c9190d436453bb84
+      internalID: 63070949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_tidepool_19
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 902
+        width: 109
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1261f8cfe8e7cd0459c89a62989956ad
+      internalID: 1077522339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_tidepool_20
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 768
+        width: 130
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4d7bd98b9e64474a808ba94f5fc0818
+      internalID: 277081503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_tidepool_21
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 768
+        width: 129
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfea9e148ded9d7469802a65af08772a
+      internalID: 690282384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_tidepool_22
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 768
+        width: 24
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58a1d86c18159b24982d366ddf5e5a0e
+      internalID: 1833332936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_tidepool_23
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 768
+        width: 48
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 536b6f5d46ed3a848863454c30dc9f8d
+      internalID: 231653382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_tidepool_24
+      rect:
+        serializedVersion: 2
+        x: 1347
+        y: 766
+        width: 61
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3b75bb870336c443adbe1dc66adf5bd
+      internalID: -301485671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_tidepool_25
+      rect:
+        serializedVersion: 2
+        x: 1347
+        y: 861
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58ca71b25d900e5498351942278f9b26
+      internalID: 1076600667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_tidepool_26
+      rect:
+        serializedVersion: 2
+        x: 1346
+        y: 769
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d278df4c02594f54c8fffa5c91430f8c
+      internalID: -1918122596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_tidepool_27
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 674
+        width: 387
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34661a4f4bbcb6148b45bd86b8cd98b4
+      internalID: 2046352840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_tidepool_28
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 513
+        width: 244
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a73e2d7bbfaeaf4a810eb7d50b47269
+      internalID: -33914244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_tidepool_29
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 642
+        width: 122
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2e3b942bb1b05f41b17fe2289c07546
+      internalID: -1461689047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_tidepool_30
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 325
+        width: 307
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14cb80110102bb84c87e1127468fa1e3
+      internalID: -1205786795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_tidepool_31
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 532
+        width: 386
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ebad02dccced394c8bcbbdeae707a99
+      internalID: 1158083506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_tidepool_32
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 418
+        width: 385
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 274f7e3b4e4db774eb4d949eba0d6d7b
+      internalID: -1039380893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_tidepool_33
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 5
+        width: 307
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e130cb6f1588b54d9802f39495eec1a
+      internalID: -190382590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_tidepool_34
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 0
+        width: 122
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a772e3b2dec2ce843ae9e1f9c5107ee8
+      internalID: -898689556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_tidepool_35
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 244
+        width: 384
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 652a1b1f7223c9745a008a7507b3cfa7
+      internalID: 1036660592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_tidepool_36
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 162
+        width: 54
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4236c9816dc4f354698c3e30100bad0e
+      internalID: -880039395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_tidepool_37
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 162
+        width: 54
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e8917abe12e56f48b052e5316322e7d
+      internalID: 2143341351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_tidepool_38
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 162
+        width: 54
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6234d0cf24ede1a4e940e4ee97260b14
+      internalID: 1694022595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_tidepool_39
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 189
+        width: 23
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4643b149d1a12744bbba617fabe1ab95
+      internalID: 1539893068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_tidepool_40
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 184
+        width: 19
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73ae72f15ef563745b363fa8bf15a3e5
+      internalID: 1637549692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_tidepool_41
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 189
+        width: 23
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21e89ad2b07ba1c4f9e376ed5a91e884
+      internalID: -1630188177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_tidepool_42
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 184
+        width: 19
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2589014fbe82ea4c81f1af96b424b2d
+      internalID: 2126510643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_tidepool_43
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 189
+        width: 23
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8de4df63a96a18b498b5866c1a733be1
+      internalID: -1630321674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_tidepool_44
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 184
+        width: 19
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29d592909e1d7304ba79a3c85b802238
+      internalID: -1910856791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -126,7 +1071,52 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      floor_tidepool_22: 1833332936
+      floor_tidepool_21: 690282384
+      floor_tidepool_19: 1077522339
+      floor_tidepool_28: -33914244
+      floor_tidepool_40: 1637549692
+      floor_tidepool_11: -1881137006
+      floor_tidepool_38: 1694022595
+      floor_tidepool_8: 1205976707
+      floor_tidepool_6: 397302463
+      floor_tidepool_44: -1910856791
+      floor_tidepool_30: -1205786795
+      floor_tidepool_23: 231653382
+      floor_tidepool_43: -1630321674
+      floor_tidepool_1: 1250780710
+      floor_tidepool_10: -369413355
+      floor_tidepool_4: 874305429
+      floor_tidepool_17: 1886698581
+      floor_tidepool_13: -363893570
+      floor_tidepool_26: -1918122596
+      floor_tidepool_31: 1158083506
+      floor_tidepool_35: 1036660592
+      floor_tidepool_37: 2143341351
+      floor_tidepool_25: 1076600667
+      floor_tidepool_27: 2046352840
+      floor_tidepool_29: -1461689047
+      floor_tidepool_41: -1630188177
+      floor_tidepool_24: -301485671
+      floor_tidepool_3: -1329307638
+      floor_tidepool_2: 887864780
+      floor_tidepool_33: -190382590
+      floor_tidepool_18: 63070949
+      floor_tidepool_42: 2126510643
+      floor_tidepool_9: 568540311
+      floor_tidepool_5: 2030589955
+      floor_tidepool_0: 175771788
+      floor_tidepool_39: 1539893068
+      floor_tidepool_14: -1198769168
+      floor_tidepool_36: -880039395
+      floor_tidepool_16: -1466075001
+      floor_tidepool_20: 277081503
+      floor_tidepool_12: 1964686438
+      floor_tidepool_7: -947577980
+      floor_tidepool_15: -603564281
+      floor_tidepool_32: -1039380893
+      floor_tidepool_34: -898689556
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
