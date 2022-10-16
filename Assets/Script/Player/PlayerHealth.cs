@@ -20,6 +20,14 @@ public class PlayerHealth : MonoBehaviour
 
     }
 
+    private void Update()
+    {
+        if (currentHealth <= 0)
+        {
+            PlayerDeath();
+        }
+    }
+
     //* Player get damage
     public void PlayerTakeDamage(float damage)
     {

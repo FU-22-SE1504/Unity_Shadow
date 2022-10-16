@@ -157,16 +157,20 @@ public class PlayerController : MonoBehaviour
             animator.SetTrigger("attack");
             //* Set attack cooldown
             nextAttack = Time.time + attackCooldown;
-            if (!turnAround)
-            {
-                //* Create a wind attack
-                //? what Quaternion can do 
-                Instantiate(windSprite, attackPoint.position, Quaternion.Euler(new Vector3(0, 0, 0)));
-            }
-            else if (turnAround)
-            {
-                Instantiate(windSprite, attackPoint.position, Quaternion.Euler(new Vector3(0, 0, 180)));
-            }
+        }
+    }
+
+    public void playerCreateProjectile()
+    {
+        if (!turnAround)
+        {
+            //* Create a wind attack
+            //? what Quaternion can do 
+            Instantiate(windSprite, attackPoint.position, Quaternion.Euler(new Vector3(0, 0, 0)));
+        }
+        else if (turnAround)
+        {
+            Instantiate(windSprite, attackPoint.position, Quaternion.Euler(new Vector3(0, 0, 180)));
         }
     }
 }

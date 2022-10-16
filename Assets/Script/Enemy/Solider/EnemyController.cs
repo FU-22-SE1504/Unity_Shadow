@@ -57,6 +57,7 @@ public class EnemyController : MonoBehaviour
         enemyHealth.SetHealth(currentHealth, maxHealth);
         if (currentHealth <= 0)
         {
+            Destroy(enemyHealth.gameObject);
             animator.SetBool("isDeath", true);
             // Will destroy when finish animation
             Destroy(gameObject, animator.GetCurrentAnimatorStateInfo(0).length + delayDeath);

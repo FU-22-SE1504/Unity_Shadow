@@ -5,8 +5,11 @@ using System;
 
 public class EnemyPatrol : MonoBehaviour
 {
+    [Header("Player")]
     [SerializeField] Transform player;
+    [Header("Enemy")]
     [SerializeField] float range;
+    [SerializeField] float throwRange;
     [SerializeField] float moveSpeed;
 
     private bool canMove = true;

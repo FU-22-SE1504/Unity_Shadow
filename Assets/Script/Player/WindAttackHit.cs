@@ -28,10 +28,15 @@ public class WindAttackHit : MonoBehaviour
             //* Destroy wind attack
             Destroy(gameObject);
             //* Take dame to Enemy
-            if (other.gameObject.layer == LayerMask.NameToLayer("Enemy"))
+            if (other.gameObject.layer == LayerMask.NameToLayer("Solider"))
             {
                 EnemyController enemyController = other.gameObject.GetComponent<EnemyController>();
                 enemyController.enemyTakeDamage(attackDamage);
+            }
+            else if (other.gameObject.layer == LayerMask.NameToLayer("Magician"))
+            {
+                RangedController rangedController = other.gameObject.GetComponent<RangedController>();
+                rangedController.rangedTakeDame(attackDamage);
             }
         }
     }

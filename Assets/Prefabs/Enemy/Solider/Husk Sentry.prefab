@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 2596212380122184727}
   - component: {fileID: 2596212380122184721}
   - component: {fileID: 2596212380122184720}
-  m_Layer: 6
+  m_Layer: 8
   m_Name: Fill
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -85,7 +85,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2596212380291855079}
-  m_Layer: 6
+  m_Layer: 8
   m_Name: Fill Area
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -128,8 +128,8 @@ GameObject:
   - component: {fileID: 2596212380616003379}
   - component: {fileID: 2596212380616003378}
   - component: {fileID: 1716806052}
-  m_Layer: 6
-  m_Name: Melee Soldier
+  m_Layer: 8
+  m_Name: Husk Sentry
   m_TagString: Enemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -288,7 +288,7 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 8
   currentHealth: 0
-  maxHealth: 5
+  maxHealth: 3
   delayDeath: 0
   attackCooldown: 1
   attackDamage: 2
@@ -308,6 +308,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   player: {fileID: 0}
   range: 15
+  throwRange: 0
   moveSpeed: 5
 --- !u!1 &2596212381146850718
 GameObject:
@@ -319,7 +320,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2596212381146850712}
   - component: {fileID: 2596212381146850719}
-  m_Layer: 6
+  m_Layer: 8
   m_Name: Health Bar Slider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -412,7 +413,7 @@ GameObject:
   - component: {fileID: 2596212381253766999}
   - component: {fileID: 2596212381253766998}
   - component: {fileID: 2596212381253766996}
-  m_Layer: 6
+  m_Layer: 8
   m_Name: Health Bar Canvas
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -528,7 +529,7 @@ GameObject:
   - component: {fileID: 2596212382119503190}
   - component: {fileID: 2596212382119503184}
   - component: {fileID: 2596212382119503191}
-  m_Layer: 6
+  m_Layer: 8
   m_Name: Background
   m_TagString: Untagged
   m_Icon: {fileID: 0}
