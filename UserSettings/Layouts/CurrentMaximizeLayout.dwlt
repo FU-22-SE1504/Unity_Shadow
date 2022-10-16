@@ -26,7 +26,7 @@ MonoBehaviour:
   m_MinSize: {x: 400, y: 200}
   m_MaxSize: {x: 32384, y: 16192}
   vertical: 0
-  controlID: 8126
+  controlID: 8894
 --- !u!114 &2
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -143,7 +143,7 @@ MonoBehaviour:
   m_MinSize: {x: 100, y: 200}
   m_MaxSize: {x: 8096, y: 16192}
   vertical: 1
-  controlID: 8127
+  controlID: 8895
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -635,9 +635,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -16.154839, y: -1.7690743, z: -0.16963287}
+    m_Target: {x: -2.6710641, y: -5.070978, z: -0.015387736}
     speed: 2
-    m_Value: {x: -16.154839, y: -1.7690743, z: -0.16963287}
+    m_Value: {x: -2.6710641, y: -5.070978, z: -0.015387736}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -688,9 +688,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 26.963362
+    m_Target: 11.124368
     speed: 2
-    m_Value: 26.963362
+    m_Value: 11.124368
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -772,7 +772,7 @@ MonoBehaviour:
     m_SaveData: []
   m_LockTracker:
     m_IsLocked: 0
-  m_LastSelectedObjectID: 24574
+  m_LastSelectedObjectID: -1254
 --- !u!114 &9
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -830,8 +830,8 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 2e600000
-      m_LastClickedID: 0
+      m_SelectedIDs: 1afbffff
+      m_LastClickedID: -1254
       m_ExpandedIDs: 00fbffff2cfbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
@@ -923,21 +923,21 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Prefabs/Enemy/Magician/Grimmkin Master
+    - Assets/Prefabs/Enemy/Magician
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 61
   m_LastFolders:
-  - Assets/Prefabs/Enemy/Magician/Grimmkin Master
+  - Assets/Prefabs/Enemy/Magician
   m_LastFoldersGridSize: 61
   m_LastProjectPath: D:\Study\Class\PRU211m\Shadow
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: bc630000
-    m_LastClickedID: 25532
+    m_SelectedIDs: a4630000
+    m_LastClickedID: 25508
     m_ExpandedIDs: 0000000090630000926300009463000096630000986300009a6300009c6300009e630000a0630000a2630000a4630000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -991,9 +991,9 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: 2e600000
-    m_LastClickedInstanceID: 24622
-    m_HadKeyboardFocusLastEvent: 1
+    m_SelectedInstanceIDs: 1afbffff
+    m_LastClickedInstanceID: -1254
+    m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: d05f0000dc780000126a0000086a00007a820000dc6d0000546000000000000042600000226900000e640000586b00003e660000349e00003c600000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -1084,7 +1084,7 @@ MonoBehaviour:
     m_ControlHash: -371814159
     m_PrefName: Preview_InspectorPreview
   m_LastInspectedObjectInstanceID: -1
-  m_LastVerticalScrollValue: 273.59998
+  m_LastVerticalScrollValue: 0
   m_GlobalObjectId: 
   m_InspectorMode: 0
   m_LockTracker:
